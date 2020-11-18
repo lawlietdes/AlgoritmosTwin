@@ -18,7 +18,9 @@ public class HighestProduct {
 		A.add(100);
 		A.add(-70);
 		A.add(-50);
-		System.out.println(maxp3(A));
+		
+		//5, 5, 5, -1, -1 
+		//System.out.println(maxp3(A));
 	
 	}
 	
